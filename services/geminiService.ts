@@ -1,4 +1,4 @@
-import { Subject } from '../types';
+import { Subject } from '../types.ts';
 
 // Định nghĩa Interface để Frontend hiểu cấu trúc dữ liệu trả về
 export interface AiResponse {
